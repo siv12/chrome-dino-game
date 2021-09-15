@@ -1,5 +1,5 @@
 # programmer -> siv
-# This is a code of chrome dino game
+# chrome dino game
 
 import pygame            # importing essential modules
 import random
